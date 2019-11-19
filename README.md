@@ -1,2 +1,68 @@
 # keybase.md
-### Keybase proof  I hereby claim:    * I am erick964 on github.   * I am erick964 (https://keybase.io/erick964) on keybase.   * I have a public key ASBmxKN2RNbqJWK7uxA-frxP-BgmqVEFsN40Td-ryD6qFAo  To claim this, I am signing this object:  ```json {   "body": {     "key": {       "eldest_kid": "012066c4a37644d6ea2562bbbb103e7ebc4ff81826a95105b0de344ddfabc83eaa140a",       "host": "keybase.io",       "kid": "012066c4a37644d6ea2562bbbb103e7ebc4ff81826a95105b0de344ddfabc83eaa140a",       "uid": "afe997552336385ff07022cd9c2a8a19",       "username": "erick964"     },     "merkle_root": {       "ctime": 1568202094,       "hash": "de3222cbad3b549d7636dab63c63b3f102608c39bea8194b9a98d3ae00ed448a513e61b795e21d47845061671333fdbba3058b0df32a7cd76897126b764fc2c2",       "hash_meta": "4125bab235255c4b09d7d8d6c2dd1a5098e7720a30e7b621cb6ac78d9464b2e3",       "seqno": 6690251     },     "service": {       "entropy": "KE4Lqgy0D2N2tStIZ9DvQW78",       "name": "github",       "username": "erick964"     },     "type": "web_service_binding",     "version": 2   },   "client": {     "name": "keybase.io go client",     "version": "4.4.0"   },   "ctime": 1568202103,   "expire_in": 504576000,   "prev": "15cbab68cebce97cb6edc80ac480d78a00c8cab98e49d74cb0afd8efe266a827",   "seqno": 5,   "tag": "signature" } ```  with the key [ASBmxKN2RNbqJWK7uxA-frxP-BgmqVEFsN40Td-ryD6qFAo](https://keybase.io/erick964), yielding the signature:  ``` hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZsSjdkTW6iViu7sQPn68T/gYJqlRBbDeNE3fq8g+qhQKp3BheWxvYWTESpcCBcQgFcuraM686Xy27cgKxIDXigDIyrmOSddMsK/Y7+JmqCfEIIxWSpXgWz+DbyGKcVMkA/STQ0h72cx9VSXEWgphXADcAgHCo3NpZ8RACb1oVMwfaVjEg8QqxKqF4HytZq4aCprJa7GUi9eBV2KThEoMUuUfGnSEh1VgSVfU2u80p0rX00ZRZ+SIFXM/A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKiqxT6lwDQ42+AXHkBzc2j9jmvghmjbprDn0LpvBjeco3RhZ80CAqd2ZXJzaW9uAQ==  ```  And finally, I am proving ownership of the github account by posting this as a gist.  ### My publicly-auditable identity:  https://keybase.io/erick964  ### From the command line:  Consider the [keybase command line program](https://keybase.io/download).  ```bash # look me up keybase id erick964 ```
+### Keybase proof
+
+I hereby claim:
+
+  * I am erick1204 on github.
+  * I am erick1204 (https://keybase.io/erick1204) on keybase.
+  * I have a public key ASBliPrUhRWGK2rcL6jqHAFzqfUcPTk65wqk4new4INtWwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206588fad48515862b6adc2fa8ea1c0173a9f51c3d393ae70aa4e277b0e0836d5b0a",
+      "host": "keybase.io",
+      "kid": "01206588fad48515862b6adc2fa8ea1c0173a9f51c3d393ae70aa4e277b0e0836d5b0a",
+      "uid": "ee1f6692cfcc14f0e4eded8e6a256e19",
+      "username": "erick1204"
+    },
+    "merkle_root": {
+      "ctime": 1574183864,
+      "hash": "d1b88f834c920474481625c580369ced94618e335c61a33fc7a67041d870bde278a834ae90985e1b54802bb75c101a9563ccd9b233745a63db359a6c7b3dd26e",
+      "hash_meta": "8f5e4bdf00629cdaf6f330c679a1d62287bec81b5209eac70cd374190c183302",
+      "seqno": 10222423
+    },
+    "service": {
+      "entropy": "N/AJMi+mHmI4QMBxTULHQSU7",
+      "name": "github",
+      "username": "erick1204"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574184174,
+  "expire_in": 504576000,
+  "prev": "497a8a0cdc388d21dd8e3453afc90d07f82149225fb5a08fc93a14e24c0699b5",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBliPrUhRWGK2rcL6jqHAFzqfUcPTk65wqk4new4INtWwo](https://keybase.io/erick1204), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZYj61IUVhitq3C+o6hwBc6n1HD05OucKpOJ3sOCDbVsKp3BheWxvYWTESpcCBMQgSXqKDNw4jSHdjjRTr8kNB/ghSSJftaCPyToU4kwGmbXEILRDKP7S8rDM7q3FQNqlzXfKdv88ENpHZiljS5SkiH/IAgHCo3NpZ8RAubY+OmaoTKb318GZgLnCaz9UB0dW0+daRNrdZgGz0amvytArxuqAN0V7GLG3bjVe6hFJiPeZ1zisLDibOt1dC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDDCyg9ineo7aBF1U+krOun/2njXmaWubeT6h0eD2ZEXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/erick1204
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id erick1204
+```
